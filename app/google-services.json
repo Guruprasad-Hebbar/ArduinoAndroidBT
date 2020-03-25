@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528805073233",
+    "firebase_url": "https://stocking-tracker.firebaseio.com",
+    "project_id": "stocking-tracker",
+    "storage_bucket": "stocking-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528805073233:android:b30c589405c7aa597c0370",
+        "android_client_info": {
+          "package_name": "com.led_on_off.led"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528805073233-6jmc0dohsrf8hofadk02fvqlkrv1mn2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCw1j4FgGx_aIsBld6Swjf6tw9fdAbc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528805073233-6jmc0dohsrf8hofadk02fvqlkrv1mn2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
